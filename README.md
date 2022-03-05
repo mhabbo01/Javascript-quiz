@@ -20,4 +20,4 @@ Mock-Up
 
 The following animation demonstrates the application functionality:
 
-![Mock gif of quiz (./assets/quizdemo.gif)]
+![Mock gif of quiz](./assets/quizdemo.gif)
